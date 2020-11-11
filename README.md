@@ -6,7 +6,7 @@ Customize folder, batesstamps, and file PREFIXs
 Reads collected files from 'input' folder, and Outputs Index Files (.opt and .dat), Images (.jpg with Bates Stamp and Image), Natives (.xlsx,.xls, .gif), and Text files (.txt file of extracted text) in eDiscovery directory stucture (ex.Open-Source_eDiscovery\JSCO_PROD001\VOL0001\NATIVES\JSCO_00000001.xls).
 
 ### OUTPUT EXAMPLE:
-Exmaple: Create Production from 3 files (.docx, .txt, and .xls) in directory 'input\Test_Collection'
+    Exmaple: Create Production from 3 files (.docx, .txt, and .xls) in directory "input\Test_Collection"
     >Open-Source-eDiscovery
         >JSCO_PROD001
             >VOL00001
